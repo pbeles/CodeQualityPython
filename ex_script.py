@@ -24,6 +24,7 @@ def printResult( x):
 
 x=x-1 
 y=y-2
+z=z-5
 val1 = 10
 VAL2 = 0
 sum = Add(val1, VAL2)
