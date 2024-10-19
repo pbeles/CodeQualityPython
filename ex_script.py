@@ -23,6 +23,7 @@ def printResult( x):
       print( "The result is: " + str( x ) )
 
 x=x-1 
+y=y-2
 val1 = 10
 VAL2 = 0
 sum = Add(val1, VAL2)
